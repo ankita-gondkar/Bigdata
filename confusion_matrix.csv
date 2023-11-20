@@ -1,0 +1,8 @@
+True label/Predicted label,df_images,bcc_images,mel_images,bkl_images,akiec_images,nv_images,vasc_images
+df_images,80%,,7%,,7%,7%,
+bcc_images,,98%,,,2%,,
+mel_images,,3%,73%,4%,1%,19%,
+bkl_images,1%,1%,4%,82%,3%,8%,
+akiec_images,,18%,3%,8%,68%,3%,
+nv_images,0%,1%,3%,0%,,95%,0%
+vasc_images,,,,,,9%,91%
